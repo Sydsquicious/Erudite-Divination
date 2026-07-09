@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="tarot_preview.png" alt="Tarot Reading" width="500">
+      <img src="tarot_preview.png" alt="Tarot Reading" width="485">
     </td>
     <td align="center">
       <img src="casting_preview.png" alt="Rune Casting" width="500">
