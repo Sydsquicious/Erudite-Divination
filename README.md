@@ -1,8 +1,8 @@
 # Erudite-Divination
 
 <p align="center">
-  <img src="casting_preview.png" alt="Casting Map" width="48%">
-  <img src="tarot_preview.png" alt="Tarot Reading" width="48%">
+  <img src="casting_preview.png" alt="Casting Map" width="35%">
+  <img src="tarot_preview.png" alt="Tarot Reading" width="35%">
 </p>
 *The fates have spoken.*
 
