@@ -2,20 +2,25 @@
 
 <h2>Preview</h2>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="tarot_preview.png" alt="Tarot Reading" width="485">
-    </td>
-    <td align="center">
-      <img src="casting_preview.png" alt="Rune Casting" width="500">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tarot Reading Interface, Celestial (Celtic) Cross</strong></td>
-    <td align="center"><strong>Rune Casting Interface</strong></td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="tarot_preview.png" alt="Tarot Reading" width="485"><br>
+        <strong>Tarot Reading</strong><br>
+        <em>Celestial (Celtic Cross)</em>
+      </td>
+
+      <td width="30"></td>
+
+      <td align="center">
+        <img src="casting_preview.png" alt="Rune Casting" width="500"><br>
+        <strong>Rune Casting</strong><br>
+        <em>Original Charm Casting System</em>
+      </td>
+    </tr>
+  </table>
+</p>
 <i>The fates have spoken.</i>
 
 Erudite Divination is an immersive divination toolkit for **Final Fantasy XIV**, built with the **Dalamud** framework for roleplayers, storytellers, and people who enjoy the pagan arts of tarot and rune casting alike.
