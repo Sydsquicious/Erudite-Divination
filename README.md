@@ -1,8 +1,5 @@
 # Erudite-Divination
-A full scale 
-Erudite Divination is a Dalamud plugin featuring a divination toolkit for FFXIV tarot readings, rune casting, and an immersive roleplay experience of doing or experiencing a divination for or by your characters.
-
-The plugin is intended as a local/social divination table: tarot cards, casting charms, reader guidance, and observer-facing board state. It is not a physical gameplay tool but instead a window. It does not automate combat or gathering, read encounter state, modify memory, use packets, or interact with FFXIV systems beyond normal Dalamud plugin UI.
+Erudite Divination is a scholarly divination toolkit for Final Fantasy XIV, blending the symbolism of tarot, the intuition of rune casting, and the atmosphere of a candlelit archive into a single immersive experience. Built for roleplayers and storytellers, it transforms divination from a simple random draw into a shared ritual of interpretation, conversation, and discovery. Designed as a modular platform, Erudite Divination will continue to grow with additional traditions, reading methods, and mystical tools while maintaining a cohesive, handcrafted aesthetic inspired by museum collections, antique libraries, and the quiet pursuit of wisdom.
 
 ## Current State
 
