@@ -1,7 +1,7 @@
 # Erudite-Divination
 *The fates have spoken.*
 
-Erudite Divination is an immersive divination toolkit for **Final Fantasy XIV**, built with the **Dalamud** framework for roleplayers, storytellers, and curious seekers alike.
+Erudite Divination is an immersive divination toolkit for **Final Fantasy XIV**, built with the **Dalamud** framework for roleplayers, storytellers, and people who enjoy the pagan arts of tarot and rune casting alike.
 
 Inspired by mystical pagan libraries, occult manuscripts, candlelit studies, and handcrafted ritual tools, Erudite Divination transforms divination into a shared in-game experience. Rather than simply drawing random cards, the plugin presents beautifully designed reading spaces where symbolism, interpretation, and collaborative storytelling come together.
 
