@@ -1,6 +1,9 @@
 # Erudite-Divination
 
-![Casting Map](casting_preview.png)
+<p align="center">
+  <img src="casting_preview.png" alt="Casting Map" width="48%">
+  <img src="tarot_preview.png" alt="Tarot Reading" width="48%">
+</p>
 *The fates have spoken.*
 
 Erudite Divination is an immersive divination toolkit for **Final Fantasy XIV**, built with the **Dalamud** framework for roleplayers, storytellers, and people who enjoy the pagan arts of tarot and rune casting alike.
