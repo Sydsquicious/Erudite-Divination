@@ -1,7 +1,27 @@
 # Erudite-Divination
-Erudite Divination is a scholarly divination toolkit for Final Fantasy XIV, blending the symbolism of tarot, the intuition of rune casting, and the atmosphere of a candlelit archive into a single immersive experience. Built for roleplayers and storytellers, it transforms divination from a simple random draw into a shared ritual of interpretation, conversation, and discovery. 
+*The fates have spoken.*
 
-Erudite Divination is designed as a modular platform, and will continue to grow with additional divination traditions, reading methods, and mystical tools while maintaining a cohesive, handcrafted aesthetic inspired by pagan collections, antique libraries, and the quiet pursuit of wisdom through mysticism.
+Erudite Divination is an immersive divination toolkit for **Final Fantasy XIV**, built with the **Dalamud** framework for roleplayers, storytellers, and curious seekers alike.
+
+Inspired by mystical pagan libraries, occult manuscripts, candlelit studies, and handcrafted ritual tools, Erudite Divination transforms divination into a shared in-game experience. Rather than simply drawing random cards, the plugin presents beautifully designed reading spaces where symbolism, interpretation, and collaborative storytelling come together.
+
+## Planned Features
+
+- 🔮 Tarot readings featuring the public-domain Rider–Waite deck
+- 🪨 Rune and charm casting using an original divination system
+- 👁️ Reader and Observer modes for collaborative roleplay
+- 🗺️ Multiple reading layouts, including Celtic Cross and Casting Maps
+- 📜 Rich interpretations and narrative prompts
+- 🎨 Handcrafted archival-inspired interface and animations
+- ⚙️ Modular architecture designed to support future divination traditions
+
+## Philosophy
+
+Erudite Divination is designed to feel less like a game mechanic and more like opening an antique divination cabinet. Every interaction—from shuffling cards to casting runes—is intended to encourage atmosphere, reflection, and shared storytelling while remaining respectful of the traditions that inspired it.
+
+---
+
+*"Seek wisdom. Draw with intention."*
 
 ## Current State
 
