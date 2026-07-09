@@ -1,5 +1,7 @@
 # Erudite-Divination
-Erudite Divination is a scholarly divination toolkit for Final Fantasy XIV, blending the symbolism of tarot, the intuition of rune casting, and the atmosphere of a candlelit archive into a single immersive experience. Built for roleplayers and storytellers, it transforms divination from a simple random draw into a shared ritual of interpretation, conversation, and discovery. Designed as a modular platform, Erudite Divination will continue to grow with additional traditions, reading methods, and mystical tools while maintaining a cohesive, handcrafted aesthetic inspired by museum collections, antique libraries, and the quiet pursuit of wisdom.
+Erudite Divination is a scholarly divination toolkit for Final Fantasy XIV, blending the symbolism of tarot, the intuition of rune casting, and the atmosphere of a candlelit archive into a single immersive experience. Built for roleplayers and storytellers, it transforms divination from a simple random draw into a shared ritual of interpretation, conversation, and discovery. 
+
+Erudite Divination is designed as a modular platform, and will continue to grow with additional divination traditions, reading methods, and mystical tools while maintaining a cohesive, handcrafted aesthetic inspired by pagan collections, antique libraries, and the quiet pursuit of wisdom through mysticism.
 
 ## Current State
 
