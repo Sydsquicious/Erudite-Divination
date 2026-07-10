@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "kcbak",
+    "Name": "Erudite Divination",
+    "InternalName": "EruditeTarot",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "An immersive local divination table for roleplay readings.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Sydsquicious/Erudite-Divination",
+    "IconUrl": "https://raw.githubusercontent.com/Sydsquicious/Erudite-Divination/main/icon.png",
+    "Punchline": "An immersive local divination table for roleplay readings.",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/Sydsquicious/Erudite-Divination/releases/download/v1.0.0/EruditeDivination-v1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Sydsquicious/Erudite-Divination/releases/download/v1.0.0/EruditeDivination-v1.0.0.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "2026-07-10T19:40:00Z",
+    "Tags": [
+      "tarot",
+      "roleplay",
+      "rp",
+      "divination"
+    ]
+  }
+]
