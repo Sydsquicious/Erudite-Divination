@@ -39,7 +39,7 @@ Inspired by mystical pagan libraries, occult manuscripts, candlelit studies, and
 
 ## Philosophy
 
-Erudite Divination is designed to feel less like a game mechanic and more like opening an antique divination cabinet. Every interaction—from shuffling cards to casting runes—is intended to encourage atmosphere, reflection, and shared storytelling while remaining respectful of the traditions that inspired it.
+Erudite Divination is designed to feel less like a game mechanic and more like opening an antique divination cabinet. Every interaction, from shuffling cards to casting runes, is intended to encourage atmosphere, reflection, and shared storytelling while remaining respectful of the traditions that inspired it.
 
 ---
 
